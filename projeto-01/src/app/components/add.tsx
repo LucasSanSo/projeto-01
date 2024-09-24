@@ -7,8 +7,5 @@ interface Props{
 }
 
 export default function Add({task, onSubmit, onChange}: Props){
-return(
 
-    
-);
 }
